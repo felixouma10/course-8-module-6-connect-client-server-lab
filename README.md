@@ -32,7 +32,7 @@ pipenv shell
 ## Running the App
 
 ```bash
-python server.py
+python app.py
 ```
 
 Then open `client/index.html` in your browser to view the frontend.
@@ -68,6 +68,7 @@ All tests must pass to complete the lab.
 │   ├── index.html
 │   ├── styles.css
 │   └── script.js
+├── app.py
 ├── server.py
 ├── tests/
 │   └── test_app.py
